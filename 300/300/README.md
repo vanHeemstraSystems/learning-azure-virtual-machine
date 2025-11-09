@@ -1,10 +1,6 @@
 # 300 - Azure Virtual Machine Reverse Engineering
 
-I’ll create a comprehensive reverse engineering document for Azure Virtual Machine following the same structure and depth as your NSG document. Let me build this for you.​​​​​​​​​​​​​​​​
-
-Done! I’ve created a comprehensive reverse engineering document for Azure Virtual Machine following the exact same structure as your NSG document.
-
-[View your Azure VM document](computer:///mnt/user-data/outputs/Azure_Virtual_Machine_Reverse_Engineering.md)
+This a comprehensive reverse engineering document for Azure Virtual Machine following the same structure and depth as your NSG document. 
 
 The document includes:
 
