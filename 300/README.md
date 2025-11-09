@@ -11,3 +11,7 @@ See [README.md](./200/README.md)
 ## 300 - Azure Virtual Machine Reverse Engineering
 
 See [README.md](./300/README.md)
+
+## 400 - Azure Virtual Machine Solutions
+
+See [README.md](./400/README.md)
