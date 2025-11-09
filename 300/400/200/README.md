@@ -9,3 +9,7 @@ See [README.md](./300/README.md)
 ## 200 - Create and Manage Windows VMs with Azure PowerShell
 
 See [README.md](./200/README.md)
+
+## 300 - Plan deployment for updating Windows VMs in Azure
+
+See [README.md](./300/README.md)
